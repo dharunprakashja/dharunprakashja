@@ -9,7 +9,7 @@ Final Year B.Tech AI & DS Student (Honours in AI & ML) • Software Engineer •
 
 <p align="center">
 🌐 <a href="https://dharunprakashja.netlify.app/">Portfolio</a> •
-💼 <a href="https://www.linkedin.com/in/dharunprakashja">LinkedIn</a> •
+💼 <a href="https://www.linkedin.com/in/dharunprakashja">LinkedIn</a> 
 </p>
 
 ---
