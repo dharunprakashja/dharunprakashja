@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Final Year B.Tech AI & DS Student (Honours in AI & ML) • Software Engineer • MERN Stack Developer
+Software Engineer • MERN Stack Developer
 </h3>
 
 <p align="center">
