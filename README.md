@@ -12,15 +12,11 @@
 <p align="center">
   <a href="https://dharunprakashja.dev"><img src="https://img.shields.io/badge/Portfolio-dharunprakashja.dev-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dharunprakashja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/dharunprakashja"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/dharunprakashja"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:dharunprakashja@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharunprakashja&label=Profile%20Views&color=36BCF7&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat-square" alt="open to work"/>
-  <img src="https://img.shields.io/badge/Location-Salem%2C%20India-orange?style=flat-square" alt="location"/>
 </p>
 
 ---
