@@ -27,8 +27,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=dharunprakashja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-
 I'm an **AI Engineer and Full-Stack Developer** who loves making AI *actually work* — taking an LLM feature from a promising demo to something people rely on every day.
 
 I like owning the whole journey: understanding the problem, designing the solution, writing the code, shipping it and keeping it healthy in production.
@@ -41,7 +39,6 @@ I like owning the whole journey: understanding the problem, designing the soluti
 - 🏆 **HackIndia 2025 — 1st Runner-Up** · **NPTEL Java — Elite + Top 2%**
 - ⚡ Coding since **2022** · **15+ projects** · **40+ technologies**
 
-<br clear="right"/>
 
 
 ---
