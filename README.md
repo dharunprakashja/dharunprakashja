@@ -244,20 +244,29 @@ I like owning the whole journey: understanding the problem, designing the soluti
 
 ## 📊 GitHub Analytics
 
+<!-- 3D contribution graph: needs .github/workflows/profile-3d.yml in this repo -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharunprakashja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg"/>
+    <img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharunprakashja&layout=compact&langs_count=10&card_width=1000&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dharunprakashja&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph"/>
 </p>
 
-<!-- Snake animation: needs the workflow file .github/workflows/snake.yml in this repo -->
+<!-- Snake animation: needs .github/workflows/snake.yml in this repo -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharunprakashja/dharunprakashja/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharunprakashja/dharunprakashja/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/dharunprakashja/dharunprakashja/output/github-snake-dark.svg"/>
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/dharunprakashja/dharunprakashja/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
