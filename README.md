@@ -43,21 +43,6 @@ I like owning the whole journey: understanding the problem, designing the soluti
 
 <br clear="right"/>
 
-```python
-class DharunPrakash:
-    def __init__(self):
-        self.name       = "Dharun Prakash J A"
-        self.roles      = ["AI Engineer", "Full-Stack Developer", "Product Engineer"]
-        self.location   = "Salem, Tamil Nadu, India 🇮🇳"
-        self.education  = "B.Tech AI & DS — Muthayammal Engineering College"
-        self.ai_stack   = ["LangChain", "LlamaIndex", "LiteLLM", "RAG", "Vector DBs", "Agentic AI"]
-        self.web_stack  = ["React", "Next.js", "Node.js", "Express", "Django", "Flask"]
-        self.cloud      = ["AWS", "Azure", "Docker", "Kubernetes", "LogicMonitor"]
-        self.values     = ["Tested code", "Thoughtful reviews", "Work others can build on"]
-
-    def say_hi(self):
-        print("Let's build AI products people genuinely use! 🚀")
-```
 
 ---
 
@@ -125,19 +110,8 @@ class DharunPrakash:
 
 ## 💼 Experience
 
-| Role | Company | Period | Type |
-|------|---------|--------|------|
-| 🛠️ **Junior Engineer** | [Triumphal Tech Solutions](https://triumphal.io/) · Coimbatore | Aug 2026 – Present | Full-time |
-| 🦅 **Product Engineer** | [AlertEagle](https://alerteagle.io/) | Mar 2026 – Present | Full-time |
-| 🧩 **Technical Associate** | [Zealous Tech Corp](https://zealoustechcorp.com) · Salem | Jan 2026 – Present | Part-time · Remote |
-| 🤖 **Junior Software Engineer** | [COMPANY NAME](https://example.com) · Coimbatore | Jan 2026 – Jul 2026 | Internship |
-| 🌐 **MERN Developer** | Zealous Tech Corp | Mar 2025 – Dec 2025 | Internship |
-| 🔗 **Microservice Developer** | Zealous Tech Corp | Jan 2025 – Feb 2025 | Internship |
-| 📐 **System Design Engineer** | Zealous Tech Corp | Dec 2024 – Jan 2025 | Internship |
-| ⚛️ **MERN Stack Developer** | Zealous Tech Corp | Jul 2024 – Nov 2024 | Internship |
-
 <details>
-<summary><b>🔍 Click to see what I built in each role</b></summary>
+<summary><b>🔍 Click to see my experience</b></summary>
 <br/>
 
 **🛠️ Junior Engineer — Triumphal Tech Solutions**
@@ -279,7 +253,6 @@ class DharunPrakash:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharunprakashja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=dharunprakashja&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
